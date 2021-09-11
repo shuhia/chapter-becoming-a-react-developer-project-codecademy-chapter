@@ -1,3 +1,22 @@
+## Purpose 
+- To learn more about react 
+    - How to fetch data with API 
+    - How to create reusable components
+- To learn more about the framework NextJs
+    - How to create a page
+    - How to create links that links other pages
+    - Create a folder structure  
+- To learn how to work in teams
+- To learn how to work in teams with different skillset 
+    - To work with beginners, intermediate, proffesionals and advanced. 
+    - To delegate work 
+- To build a super ultra mega hyper strong resumé
+
+
+## Goal
+- To build a clone of the chapter page: [SettleHead](https://community.codecademy.com/settledhead/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +51,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Credits 
+- This project was created and started by Chapter leader Çağla Öz at codeacademy chapters.  
